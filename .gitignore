@@ -1,0 +1,8 @@
+env
+.vscode
+.venv
+*.cfg
+*.pyc
+*.sqlite3
+pip
+
