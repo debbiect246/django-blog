@@ -2,7 +2,7 @@ env
 .vscode
 .venv
 *.cfg
-*.pyc
+*.pycgit config --global user.email johndoe@example.com
 *.sqlite3
 pip
 
